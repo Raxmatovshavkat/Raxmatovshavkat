@@ -7,7 +7,7 @@ Find out more about me & feel free to connect with me here:
 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/toshtemirov_muxammadi)](https://t.me/Rakhmatovshavkat)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muxammadi-toshtemirov-a4b81526a)](https://https://www.linkedin.com/in/shavkat-raxmatov/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muxammadi-toshtemirov-a4b81526a)](https://https://www.linkedin.com/in/shavkat-raxmatov)
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 <p>
