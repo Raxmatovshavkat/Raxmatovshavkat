@@ -28,10 +28,6 @@ Find out more about me & feel free to connect with me here:
     alt="Github"
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
   />
-  <img
-    alt="Vue.js"
-    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-  />
 
   <img
     alt="Bootstrap"
@@ -60,18 +56,6 @@ Find out more about me & feel free to connect with me here:
   <img
     alt="Docker"
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-  />
-  <img
-    alt="Webpack"
-    src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"
-  />
-  <img
-    alt="Tailwind"
-    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-  />
-  <img
-    alt="Nuxt"
-    src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
   />
   <img
     alt="Postman"
